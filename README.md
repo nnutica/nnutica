@@ -38,7 +38,7 @@
 | Project | Tech | Highlights | Links |
 |---------|------|-----------|-------|
 | **⟪TechCare System⟫** | NextJS · Node · Strapi | Design Web And Fetch Data From DB | https://techcaresystem.com/ |
-| **⟪Achiraya PM Tool⟫** | NextJS · Firebase · Tailwindcss  | First PM Management  | [Demo]((https://achiraya-pmtool.vercel.app)) |
+| **⟪Achiraya PM Tool⟫** | NextJS · Firebase · Tailwindcss  | First PM Management  | [Repo](⟪https://achiraya-pmtool.vercel.app⟫) |
 
 
 
