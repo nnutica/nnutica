@@ -1,6 +1,8 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/850011948669206578/1333642999187374240/20240418_213856.jpg?ex=6871d954&is=687087d4&hm=16be8db18741bcff35616dad76001849cfc5065e9b6e1a7d1dc562aa2f7fa5f6&=&format=webp&width=679&height=856" alt="header image" />
+  <img src="https://media.discordapp.net/attachments/850011948669206578/1333642999187374240/20240418_213856.jpg?ex=6871d954&is=687087d4&hm=16be8db18741bcff35616dad76001849cfc5065e9b6e1a7d1dc562aa2f7fa5f6&=&format=webp&width=679&height=856" alt="header image"
+    width = 300
+    height = 300/>
 </p>
 
 <h1 align="center">Hi, I’m Nitinat Loruthai  <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
