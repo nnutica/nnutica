@@ -46,12 +46,34 @@
 ---
 
 ## ✍🏻 Recent Blog / Talks
-<!-- GH Action can automate this section; placeholder for manual list -->
-- ⟪May 2025⟫ • **Observable-Ready Dashboards** at BangkokJS  
-- ⟪Apr 2025⟫ • Published *“Scalable Monorepo Patterns”* on Medium  
-- ⟪Mar 2025⟫ • Panel speaker at DevCon Asia: *Modern DevOps*
+<!-- GH Action can automate this section; placeholder for manual list --> 
+- ⟪Jul 2025⟫ • Building Tech Portfolios & Interview Skills By Borntodev
+- ⟪Nov 2024⟫ • ICreator 2024 
 
 ---
+
+
+## ✍🏻 Certificates
+
+Here are some of the certifications I have completed to strengthen my skills in development, programming, and cybersecurity.
+
+---
+
+### 📚 FreeCodeCamp
+- 🖥️ **Front End Development Libraries**
+- 🌐 **Responsive Web Design**
+- 📊 **College Algebra With Python**
+- ⚙️ **JavaScript Algorithms and Data Structures**
+
+### 🎓 Coursera
+- 🧠 **GenAI for Cybersecurity Analysts**
+
+### 🚀 FutureSkill
+- 💻 **C# Programming: Object Oriented Programming (OOP)**
+- 🧾 **(Webinar) Work Like a Pro with Data using ChatGPT**
+
+---
+
 
 ## 📈 GitHub Stats
 <div align="center">
