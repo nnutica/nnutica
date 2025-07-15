@@ -18,7 +18,7 @@
 - 🌱  I’m currently learning **Dart , ASP .NET**  
 - 🛠  Daily driver stack: **⟪TypeScript / React / NextJS⟫**  
 - 🎯  2025 Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**  
-- 📫  Reach me: **⟪nitin4t.loru@gmail.com⟫** | [LinkedIn](www.linkedin.com/in/nitinat-loruthai2004) 
+- 📫  Reach me: **⟪nitin4t.lor@gmail.com⟫** | [LinkedIn](www.linkedin.com/in/nitinat-loruthai2004) 
 
 ---
 
