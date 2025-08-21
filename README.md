@@ -1,11 +1,8 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src"https://github.com/nnutica/nnutica/blob/main/nut.jpg" 
-  alt="header image"
-    width = 300
-    height = 300/>
+  <img src="https://github.com/nnutica/nnutica/blob/main/nut.jpg" 
+       alt="header image" width="300" height="300"/>
 </p>
-
 <h1 align="center">Hi, I’m Nitinat Loruthai  <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
