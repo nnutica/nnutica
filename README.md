@@ -25,7 +25,7 @@
 
 | Domain | Primary | Comfortable | Currently Exploring |
 |--------|---------|-------------|---------------------|
-| Front-end | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) | ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white) |
+| Front-end | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) | ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?logo=dotnet&logoColor=white) |
 | Back-end | ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) 
 | Data | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) 
 | DevOps | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) 
@@ -39,6 +39,7 @@
 |---------|------|-----------|-------|
 | **⟪TechCare System⟫** | NextJS · Node · Strapi | Design Web And Fetch Data From DB | https://techcaresystem.com/ |
 | **⟪Achiraya PM Tool⟫** | NextJS · Firebase · Tailwindcss  | First PM Management  | https://achiraya-pmtool.vercel.app |
+| **⟪Righthere Mental health Diary⟫** |.NET MAUI · Firebase · Hugging Face FastAPI  |AI Integation For Mental Health  |(https://nnutica.itch.io/righthere-demo) |
 
 
 
